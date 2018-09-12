@@ -114,22 +114,6 @@ deme.nu      no
 deme.app     no
 ```
 
-### demie
-
-```
-Domain     Available
-demie.com     no
-demie.net     no
-demie.org     yes
-demie.biz     no
-demie.co      yes
-demie.cc      yes
-demie.io      yes
-demie.bz      yes
-demie.nu      yes
-demie.app     yes
-```
-
 ### demmy
 
 ```

@@ -5,12 +5,17 @@
 ## Table Of Contents
 
 - [Table Of Contents](#table-of-contents)
+- [A/B Testing](#ab-testing)
+  * [Meta-Lists](#meta-lists)
+  * [Companies](#companies)
 - [UGC](#ugc)
   * [Customer-Centric](#customer-centric)
   * [Curation and Moderation](#curation-and-moderation)
   * [Visual Recognition](#visual-recognition)
   * [Targeting](#targeting)
   * [Events](#events)
+  * [Blogs](#blogs)
+  * [Companies](#companies)
 - [Photo Selling](#photo-selling)
   * [Apps](#apps)
 - [Domains](#domains)
@@ -25,9 +30,25 @@
   * [demmie](#demmie)
   * [dem](#dem)
   * [mondaine](#mondaine)
+- [PDFs](#pdfs)
+  * [7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.](#7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget)
+- [Videos](#videos)
 - [TODO](#todo)
 - [Copyright](#copyright)
-## UGC
+
+## A/B Testing
+
+A/B testing allows to introduce a change to the website, and what impact is going to have, measured in terms of increased or decreased conversion rate or reaching a certain touchpoint in the user journey. To be able to tell with some certainty that the impact was due to that change, a statistical significance measure is used, which means somewhat a lot of data would have to be recorded.
+
+### Meta-Lists
+
+[A/B Testing: What are the alternatives to Optimizely?](https://www.quora.com/A-B-Testing-What-are-the-alternatives-to-Optimizely)
+
+### Companies
+
+| Logo | Name | Links | TagLine | Evaluation |
+| ---- | ---- | ----- | ------- | ---------- |
+| ![VWO Logo](images/logo/vwo.png) | VWO | https://vwo.com/ | **A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation. |## UGC
 
 The UGC (user-generated content) systems are those that allow businesses to use people's content in their marketing campaigns. The content comes from social media websites such as Instagram, Twitter and Facebook, and can be discovered with hashtags and keywords. When a relevant image is found, the system would ask the creator for their consent to use the image. Once the consent is obtained, the image is recorded in the database, and can be used in advertising materials across different media, including offline such as digital displays and billboards, as well as online on the company's website, social media and in retargeting ads.
 
@@ -55,7 +76,27 @@ After the recognition on the image was done, and some tagging of the user perfor
 
 One of the business directions is to use content projected on the screens during live-events.
 
+### Blogs
+
+https://www.socialmediaexaminer.com/user-generated-content-legally-leverage-in-marketing/
+
+    Good read and timely. Brands and businesses need to own their UGC and the days of implied consent (via #yes or iApprove responses) are quickly coming to an end as they don't provide the legal protections, model releases, etc necessary to remove any potential liability.
+
+    Anheuser Busch was recently sued in federal court over incorrect UGC usage. The case wasn't brought by the content creator, the case was brought to federal court by the model drinking a bottle of Natural Light n the photo.
+
+    I recently wrote a piece about this on our blog. It's time brands own their UGC. And the only way to do so legally is to pay for it and have model releases.
+### Companies
+
+A list of companies.
+
+1. ![shortstack](https://d1qrsxz7x3ewsw.cloudfront.net/wp-content/uploads/2017/04/shortstack-header.png) https://www.shortstack.com/features/: The most efficient, flexible and creative way to build and optimize your marketing campaigns.
+1. ![tack](https://foundontack.com/wp-content/uploads/2017/10/Tack-Logo-Purple-600.png) https://foundontack.com/ Authentic customer content to power your marketing
+1. ![photoslurp](https://hi.photoslurp.com/wp-content/uploads/2018/01/photoslurp-logo.svg) https://photoslurp.com *Boost your sales with social content.* Your customers are creating User Generated Content around your brand on social media every single day. Our Visual Marketing platform finds these great photos and videos showing off your products for you and turns them into shoppable social proof.
+
+
 ## Photo Selling
+
+https://www.enlightapp.com/blog/6-ways-to-sell-your-mobile-photography-for-actual-money/
 
 https://www.twenty20.com/sell
 
@@ -64,6 +105,12 @@ https://www.foap.com/
 https://glymt.com/
 
 https://www.markedshot.com/
+
+https://www.stockimo.com/
+
+http://clashot.com/ (https://depositphotos.com/clashot.html)
+
+http://www.snapcape.com/
 
 ### Apps
 
@@ -269,6 +316,18 @@ mondaine.bz      yes
 mondaine.nu      yes
 mondaine.app     yes
 ```
+## PDFs
+
+This section contains a collection of informational content prepared by businesses.
+
+### 7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.
+
+<a href="https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf?utm_source=Ebook&utm_medium=email&utm_campaign=7ReasonsWhy&utm_content=Download">![enterprise-ebook-hero.png](images/enterprise-ebook-hero.png)</a>
+
+## Videos
+
+<a href="https://www.youtube.com/watch?v=il-TkbgrvFw">![Andy Mallinson - Managing Director, Stackla](images/ugc.png)</a>
+
 ## TODO
 
 - [ ] Add a new item to the todo list.

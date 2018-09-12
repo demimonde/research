@@ -25,3 +25,13 @@ After the recognition on the image was done, and some tagging of the user perfor
 ### Events
 
 One of the business directions is to use content projected on the screens during live-events.
+
+### Blogs
+
+https://www.socialmediaexaminer.com/user-generated-content-legally-leverage-in-marketing/
+
+    Good read and timely. Brands and businesses need to own their UGC and the days of implied consent (via #yes or iApprove responses) are quickly coming to an end as they don't provide the legal protections, model releases, etc necessary to remove any potential liability.
+
+    Anheuser Busch was recently sued in federal court over incorrect UGC usage. The case wasn't brought by the content creator, the case was brought to federal court by the model drinking a bottle of Natural Light n the photo.
+
+    I recently wrote a piece about this on our blog. It's time brands own their UGC. And the only way to do so legally is to pay for it and have model releases.

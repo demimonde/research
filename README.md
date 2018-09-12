@@ -30,7 +30,6 @@
   * [demmie](#demmie)
   * [dem](#dem)
   * [mondaine](#mondaine)
-- [Videos](#videos)
 - [PDFs](#pdfs)
   * [$3](#3)
 - [Videos](#videos)
@@ -323,9 +322,6 @@ mondaine.app     yes
 ```
 
 
-## Videos
-
-<a href="https://www.youtube.com/watch?v=il-TkbgrvFw">![Andy Mallinson - Managing Director, Stackla](images/ugc.png)</a>
 
 ## PDFs
 
@@ -340,9 +336,9 @@ This section contains a collection of informational content prepared by business
 ## Videos
 
 
-|                                               Link                                                |                                   Title                                   |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <a href="il-TkbgrvFw"><img src="images/pdf/A Content Strategy Built on Social" width="260" /></a> | **<a name="andy-mallinson---managing-director-stackla">Andy Mallinson - Managing Director, Stackla</a>** <br/> by *undefined* |
+|                                                                         Link                                                                         |                                             Title                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <a href="https://www.youtube.com/watch?v=il-TkbgrvFw">![A Content Strategy Built on Social](http://img.youtube.com/vi/il-TkbgrvFw/mqdefault.jpg)</a> | <a name="a-content-strategy-built-on-social">A Content Strategy Built on Social</a> <br/> by *Andy Mallinson - Managing Director, Stackla* |
 
 ## TODO
 

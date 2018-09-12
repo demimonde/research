@@ -12,7 +12,7 @@ This section contains a collection of informational content prepared by business
   ["Link", "Title"],
   [
     "https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf",
-    "foap.png",
+    "foap2.png",
     "7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.",
     "Foap"
   ],

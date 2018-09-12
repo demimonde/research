@@ -115,9 +115,9 @@ difflib@~0.2.1:
   dependencies:
     heap ">= 0.2.0"
 
-documentary@1.14.0:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/documentary/-/documentary-1.14.0.tgz#e31b2a1e8898486218072c6ceaf94d2f0546dfd7"
+documentary@1.15.0:
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/documentary/-/documentary-1.15.0.tgz#3280dbf2587c19911d212bcafecdf9acf8919080"
   dependencies:
     argufy "1.2.1"
     catchment "3.1.0"

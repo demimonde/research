@@ -32,7 +32,7 @@
   * [mondaine](#mondaine)
 - [Videos](#videos)
 - [PDFs](#pdfs)
-  * [7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.](#7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget)
+  * [$3](#3)
 - [TODO](#todo)
 - [Copyright](#copyright)
 
@@ -330,9 +330,10 @@ mondaine.app     yes
 This section contains a collection of informational content prepared by businesses.
 
 
-|                                                                                 Link                                                                                  |                                                  Title                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf"><img src="images/pdf/foap.png" width="200" /></a> | <a name="7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget">7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.</a> |
+|                                                                                 Link                                                                                  |                                                          Title                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf"><img src="images/pdf/foap.png" width="200" /></a> | <a name="7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget">7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.</a> <br/> by *Foap* |
+| <a href="http://stackla.com/wp-content/uploads/2018/05/Visual-Content-Booklet-USA-FINAL-web.compressed.pdf"><img src="images/pdf/stackla.png" width="200" /></a>      | <a name="21-campaigns-that-captivated--converted-consumers">21 Campaigns That Captivated & Converted Consumers</a> <br/> by *Stackla*                                              |
 
 ## TODO
 

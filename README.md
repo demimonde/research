@@ -33,6 +33,8 @@
 - [Videos](#videos)
 - [PDFs](#pdfs)
   * [$3](#3)
+- [Videos](#videos)
+  * [$2](#2)
 - [TODO](#todo)
 - [Copyright](#copyright)
 
@@ -330,10 +332,17 @@ mondaine.app     yes
 This section contains a collection of informational content prepared by businesses.
 
 
-|                                                                                  Link                                                                                  |                                                          Title                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf"><img src="images/pdf/foap2.png" width="200" /></a> | <a name="7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget">7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.</a> <br/> by *Foap* |
-| <a href="http://stackla.com/wp-content/uploads/2018/05/Visual-Content-Booklet-USA-FINAL-web.compressed.pdf"><img src="images/pdf/stackla.png" width="200" /></a>       | <a name="21-campaigns-that-captivated--converted-consumers">21 Campaigns That Captivated & Converted Consumers</a> <br/> by *Stackla*                                              |
+|                                                                                  Link                                                                                  |                                                            Title                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf"><img src="images/pdf/foap2.png" width="260" /></a> | **<a name="7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget">7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.</a>** <br/> by *Foap* |
+| <a href="http://stackla.com/wp-content/uploads/2018/05/Visual-Content-Booklet-USA-FINAL-web.compressed.pdf"><img src="images/pdf/stackla.png" width="260" /></a>       | **<a name="21-campaigns-that-captivated--converted-consumers">21 Campaigns That Captivated & Converted Consumers</a>** <br/> by *Stackla*                                              |
+
+## Videos
+
+
+|                                               Link                                                |                                   Title                                   |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <a href="il-TkbgrvFw"><img src="images/pdf/A Content Strategy Built on Social" width="260" /></a> | **<a name="andy-mallinson---managing-director-stackla">Andy Mallinson - Managing Director, Stackla</a>** <br/> by *undefined* |
 
 ## TODO
 

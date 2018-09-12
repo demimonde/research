@@ -4,7 +4,7 @@
 This section contains a collection of informational content prepared by businesses.
 
 %TABLE-MACRO pdf
-<a href="$1"><img src="images/pdf/$2" width="200" /></a>, [$3](t) <br/> by *$4*
+<a href="$1"><img src="images/pdf/$2" width="260" /></a>, **[$3](t)** <br/> by *$4*
 %
 
 ```table pdf

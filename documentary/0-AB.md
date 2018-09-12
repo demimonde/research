@@ -9,12 +9,17 @@ A/B testing allows to introduce a change to the website, and what impact is goin
 
 ### Companies
 
-```table
+%TABLE-MACRO Company
+<a href="$2">![$1 Logo](images/logos/$3)</a>, "$4", "$5"
+%
+
+```table Company
 [
-  ["Logo", "Name", "Links", "TagLine", "Evaluation"],
+  ["Company", "Tag Line", "Evaluation"],
   [
-    "![VWO Logo](images/logo/vwo.png)", "VWO", "https://vwo.com/",
-    "**A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation."
+    "VWO", "https://vwo.com", "vwo.png",
+    "**A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation.",
+    "$10m"
   ]
 ]
 ```

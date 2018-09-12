@@ -1,3 +1,4 @@
+
 ## UGC
 
 The UGC (user-generated content) systems are those that allow businesses to use people's content in their marketing campaigns. The content comes from social media websites such as Instagram, Twitter and Facebook, and can be discovered with hashtags and keywords. When a relevant image is found, the system would ask the creator for their consent to use the image. Once the consent is obtained, the image is recorded in the database, and can be used in advertising materials across different media, including offline such as digital displays and billboards, as well as online on the company's website, social media and in retargeting ads.

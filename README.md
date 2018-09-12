@@ -46,9 +46,12 @@ A/B testing allows to introduce a change to the website, and what impact is goin
 
 ### Companies
 
-| Logo | Name | Links | TagLine | Evaluation |
-| ---- | ---- | ----- | ------- | ---------- |
-| ![VWO Logo](images/logo/vwo.png) | VWO | https://vwo.com/ | **A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation. |## UGC
+
+|                             Company                             |                                                                                                Tag Line                                                                                                | Evaluation |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| <a href="https://vwo.com">![VWO Logo](images/logos/vwo.png)</a> | "**A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation." | "$10m"     |
+
+## UGC
 
 The UGC (user-generated content) systems are those that allow businesses to use people's content in their marketing campaigns. The content comes from social media websites such as Instagram, Twitter and Facebook, and can be discovered with hashtags and keywords. When a relevant image is found, the system would ask the creator for their consent to use the image. Once the consent is obtained, the image is recorded in the database, and can be used in advertising materials across different media, including offline such as digital displays and billboards, as well as online on the company's website, social media and in retargeting ads.
 

@@ -38,7 +38,7 @@
 
 ## A/B Testing
 
-A/B testing allows to introduce a change to the website, and what impact is going to have, measured in terms of increased or decreased conversion rate or reaching a certain touchpoint in the user journey. To be able to tell with some certainty that the impact was due to that change, a statistical significance measure is used, which means somewhat a lot of data would have to be recorded.
+A/B testing allows to introduce a change to the website, and understand what impact it is going to have, measured in terms of increased or decreased conversion rate or the rate of reaching a certain touchpoint in the user journey. To be able to tell with certainty that the impact was due to that change, a statistical significance measure is used, which requires quite a lot of data.
 
 ### Meta-Lists
 
@@ -47,9 +47,9 @@ A/B testing allows to introduce a change to the website, and what impact is goin
 ### Companies
 
 
-|                             Company                             |                                                                                                Tag Line                                                                                                | Evaluation |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| <a href="https://vwo.com">![VWO Logo](images/logos/vwo.png)</a> | "**A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation." | "$10m"     |
+|                             Company                             |                                                                                               Tag Line                                                                                               | Evaluation |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| <a href="https://vwo.com">![VWO Logo](images/logos/vwo.png)</a> | **A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation. | $10m       |
 
 ## UGC
 

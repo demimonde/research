@@ -115,9 +115,9 @@ difflib@~0.2.1:
   dependencies:
     heap ">= 0.2.0"
 
-documentary@1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/documentary/-/documentary-1.15.0.tgz#3280dbf2587c19911d212bcafecdf9acf8919080"
+documentary@1.15.1:
+  version "1.15.1"
+  resolved "https://registry.yarnpkg.com/documentary/-/documentary-1.15.1.tgz#157ca27dffa7eed2374ddf4357080f41f899f4ba"
   dependencies:
     argufy "1.2.1"
     catchment "3.1.0"
@@ -264,9 +264,9 @@ yarn-s@1.1.0:
   dependencies:
     spawncommand "1.1.0"
 
-zoroaster@3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/zoroaster/-/zoroaster-3.0.3.tgz#6605652e0ea096b345822b45ed8ca51a5c66aab8"
+zoroaster@3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/zoroaster/-/zoroaster-3.0.4.tgz#42ba6e974f56a3290e60dafd8b60ceba4e4a8087"
   dependencies:
     alamode "1.4.0"
     argufy "1.2.1"

@@ -31,9 +31,10 @@
   * [dem](#dem)
   * [mondaine](#mondaine)
 - [PDFs](#pdfs)
-  * [$3](#3)
+  * [7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.](#7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget)
+  * [21 Campaigns That Captivated & Converted Consumers](#21-campaigns-that-captivated--converted-consumers)
 - [Videos](#videos)
-  * [$2](#2)
+  * [A Content Strategy Built on Social](#a-content-strategy-built-on-social)
 - [TODO](#todo)
 - [Copyright](#copyright)
 

@@ -2,7 +2,7 @@
 
 The following domains were checked.
 
-### demimonde
+**demimonde**
 
 ```
 Domain         Available  Premium  Price
@@ -18,7 +18,7 @@ demimonde.nu      yes
 demimonde.app     no
 ```
 
-### demi
+**demi**
 
 ```
 Domain    Available  Premium  Price
@@ -34,7 +34,7 @@ demi.nu      no
 demi.app     no         ✓     63.70
 ```
 
-### monde
+**monde**
 
 ```
 Domain     Available  Premium  Price
@@ -50,7 +50,7 @@ monde.nu      yes
 monde.app     yes        ✓     258.70
 ```
 
-### demee
+**demee**
 
 ```
 Domain     Available
@@ -66,7 +66,7 @@ demee.nu      yes
 demee.app     yes
 ```
 
-### demy
+**demy**
 
 ```
 Domain    Available  Premium  Price
@@ -82,7 +82,7 @@ demy.nu      no
 demy.app     yes
 ```
 
-### demie
+**demie**
 
 ```
 Domain     Available
@@ -98,7 +98,7 @@ demie.nu      yes
 demie.app     yes
 ```
 
-### deme
+**deme**
 
 ```
 Domain    Available  Premium  Price
@@ -114,7 +114,7 @@ deme.nu      no
 deme.app     no
 ```
 
-### demmy
+**demmy**
 
 ```
 Domain     Available
@@ -130,7 +130,7 @@ demmy.nu      yes
 demmy.app     yes
 ```
 
-### demmie
+**demmie**
 
 ```
 Domain     Available
@@ -146,7 +146,7 @@ demmi.nu      yes
 demmi.app     yes
 ```
 
-### dem
+**dem**
 
 ```
 Domain   Available  Premium  Price
@@ -162,7 +162,7 @@ dem.nu      yes
 dem.app     no         ✓     128.70
 ```
 
-### mondaine
+**mondaine**
 
 ```
 Domain        Available  Premium  Price
@@ -177,3 +177,5 @@ mondaine.bz      yes
 mondaine.nu      yes
 mondaine.app     yes
 ```
+
+%~%

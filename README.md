@@ -19,17 +19,6 @@
 - [Photo Selling](#photo-selling)
   * [Apps](#apps)
 - [Domains](#domains)
-  * [demimonde](#demimonde)
-  * [demi](#demi)
-  * [monde](#monde)
-  * [demee](#demee)
-  * [demy](#demy)
-  * [demie](#demie)
-  * [deme](#deme)
-  * [demmy](#demmy)
-  * [demmie](#demmie)
-  * [dem](#dem)
-  * [mondaine](#mondaine)
 - [PDFs](#pdfs)
   * [7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.](#7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget)
   * [21 Campaigns That Captivated & Converted Consumers](#21-campaigns-that-captivated--converted-consumers)
@@ -37,6 +26,8 @@
   * [A Content Strategy Built on Social](#a-content-strategy-built-on-social)
 - [TODO](#todo)
 - [Copyright](#copyright)
+
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/0.svg?sanitize=true"></a></p>
 
 ## A/B Testing
 
@@ -52,6 +43,8 @@ A/B testing allows to introduce a change to the website, and understand what imp
 |                             Company                             |                                                                                               Tag Line                                                                                               | Evaluation |
 | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | <a href="https://vwo.com">![VWO Logo](images/logos/vwo.png)</a> | **A/B Testing and Conversion Optimization Platform™**<br/>VWO is the all-in-one platform that helps you conduct visitor research, build an optimization roadmap, and run continuous experimentation. | $10m       |
+
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/1.svg?sanitize=true"></a></p>
 
 ## UGC
 
@@ -90,6 +83,8 @@ https://www.socialmediaexaminer.com/user-generated-content-legally-leverage-in-m
     Anheuser Busch was recently sued in federal court over incorrect UGC usage. The case wasn't brought by the content creator, the case was brought to federal court by the model drinking a bottle of Natural Light n the photo.
 
     I recently wrote a piece about this on our blog. It's time brands own their UGC. And the only way to do so legally is to pay for it and have model releases.
+
+
 ### Companies
 
 A list of companies.
@@ -98,6 +93,9 @@ A list of companies.
 1. ![tack](https://foundontack.com/wp-content/uploads/2017/10/Tack-Logo-Purple-600.png) https://foundontack.com/ Authentic customer content to power your marketing
 1. ![photoslurp](https://hi.photoslurp.com/wp-content/uploads/2018/01/photoslurp-logo.svg) https://photoslurp.com *Boost your sales with social content.* Your customers are creating User Generated Content around your brand on social media every single day. Our Visual Marketing platform finds these great photos and videos showing off your products for you and turns them into shoppable social proof.
 
+
+
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/2.svg?sanitize=true"></a></p>
 
 ## Photo Selling
 
@@ -142,11 +140,13 @@ http://www.snapcape.com/
 - [ePico Business](https://fnd.io/#/gb/iphone-app/1262514413-epico-business-by-kgroop)
 - [Zilikoo - Shopping App Limited Edition Photographs](https://fnd.io/#/gb/ios-universal-app/1232140660-zilikoo-shopping-app-limited-edition-pho)
 - [BUYBYE ELITE](https://fnd.io/#/gb/iphone-app/1161079276-buybye-elite-by-buybye-pty-ltd)
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/3.svg?sanitize=true"></a></p>
+
 ## Domains
 
 The following domains were checked.
 
-### demimonde
+**demimonde**
 
 ```
 Domain         Available  Premium  Price
@@ -162,7 +162,7 @@ demimonde.nu      yes
 demimonde.app     no
 ```
 
-### demi
+**demi**
 
 ```
 Domain    Available  Premium  Price
@@ -178,7 +178,7 @@ demi.nu      no
 demi.app     no         ✓     63.70
 ```
 
-### monde
+**monde**
 
 ```
 Domain     Available  Premium  Price
@@ -194,7 +194,7 @@ monde.nu      yes
 monde.app     yes        ✓     258.70
 ```
 
-### demee
+**demee**
 
 ```
 Domain     Available
@@ -210,7 +210,7 @@ demee.nu      yes
 demee.app     yes
 ```
 
-### demy
+**demy**
 
 ```
 Domain    Available  Premium  Price
@@ -226,7 +226,7 @@ demy.nu      no
 demy.app     yes
 ```
 
-### demie
+**demie**
 
 ```
 Domain     Available
@@ -242,7 +242,7 @@ demie.nu      yes
 demie.app     yes
 ```
 
-### deme
+**deme**
 
 ```
 Domain    Available  Premium  Price
@@ -258,7 +258,7 @@ deme.nu      no
 deme.app     no
 ```
 
-### demmy
+**demmy**
 
 ```
 Domain     Available
@@ -274,7 +274,7 @@ demmy.nu      yes
 demmy.app     yes
 ```
 
-### demmie
+**demmie**
 
 ```
 Domain     Available
@@ -290,7 +290,7 @@ demmi.nu      yes
 demmi.app     yes
 ```
 
-### dem
+**dem**
 
 ```
 Domain   Available  Premium  Price
@@ -306,7 +306,7 @@ dem.nu      yes
 dem.app     no         ✓     128.70
 ```
 
-### mondaine
+**mondaine**
 
 ```
 Domain        Available  Premium  Price
@@ -322,6 +322,11 @@ mondaine.nu      yes
 mondaine.app     yes
 ```
 
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/4.svg?sanitize=true"></a></p>
+
+
+
+
 
 
 ## PDFs
@@ -334,12 +339,17 @@ This section contains a collection of informational content prepared by business
 | <a href="https://www.foap.com/blog/wp-content/uploads/2018/09/7-Reasons-Why-Crowdsourced-Visuals-Works-For-You.pdf"><img src="images/pdf/foap2.png" width="260" /></a> | **<a name="7-ways-crowdsourced-visual-content-can-push-marketing-results-without-the-big-pull-on-your-budget">7 ways Crowdsourced Visual Content can push marketing results without the big pull on your budget.</a>** <br/> by *Foap* |
 | <a href="http://stackla.com/wp-content/uploads/2018/05/Visual-Content-Booklet-USA-FINAL-web.compressed.pdf"><img src="images/pdf/stackla.png" width="260" /></a>       | **<a name="21-campaigns-that-captivated--converted-consumers">21 Campaigns That Captivated & Converted Consumers</a>** <br/> by *Stackla*                                              |
 
+
+
 ## Videos
 
 
 |                                                                         Link                                                                         |                                             Title                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="https://www.youtube.com/watch?v=il-TkbgrvFw">![A Content Strategy Built on Social](http://img.youtube.com/vi/il-TkbgrvFw/mqdefault.jpg)</a> | <a name="a-content-strategy-built-on-social">A Content Strategy Built on Social</a> <br/> by *Andy Mallinson - Managing Director, Stackla* |
+
+
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/5.svg?sanitize=true"></a></p>
 
 ## TODO
 
@@ -350,3 +360,5 @@ This section contains a collection of informational content prepared by business
 (c) [Demimonde][1] 2018
 
 [1]: https://demimonde.app
+
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/-1.svg?sanitize=true"></a></p>
